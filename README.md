@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fanaticANKIT
+- 👋 Hi, I’m Ankit Dudi
 - 👀 I’m interested in robotics
 - 🌱 I’m currently a beginner in robotics
 
